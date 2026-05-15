@@ -4,6 +4,10 @@ A project to design a wing sail for a [Puddle Duck Racer](https://www.pdracer.co
 Ideally the wing sail should support solar panels that enable an electric
 motor to power the puddle duck when the wind is down.
 
+Please imagine that there are some lines to the corners of the sail to help
+control it, the pivot point at the centre would not be strong enough on its
+own.
+
 
 ## Tacking
 
