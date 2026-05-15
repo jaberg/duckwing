@@ -1,6 +1,6 @@
 # DuckWing
 
-A project to design a wing sail for a Puddle Duck Racer.
+A project to design a wing sail for a [Puddle Duck Racer](https://www.pdracer.com/).
 Ideally the wing sail should support solar panels that enable an electric
 motor to power the puddle duck when the wind is down.
 
